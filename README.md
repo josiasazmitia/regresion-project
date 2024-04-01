@@ -5,3 +5,6 @@
 ```bash
 conda activate proyecto
 ```
+
+###  Link a archivo  proyecto.ipynb
+[proyecto.ipynb](proyecto.ipynb)
