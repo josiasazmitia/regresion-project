@@ -8,3 +8,6 @@ conda activate proyecto
 
 ###  Link a archivo  proyecto.ipynb
 [proyecto.ipynb](proyecto.ipynb)
+
+### Video de explicación
+[Video](https://youtu.be/LyVmXb5koy8)
